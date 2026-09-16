@@ -1,0 +1,6 @@
+{
+  "name": "Image → PDF Pro | تحويل الصور إلى ملف PDF",
+  "description": "أداة ذكية لتحويل ودمج المستندات وفحص ملفات PDF والصور بالذكاء الاصطناعي وتسميتها تلقائياً بأسماء أصحابها وتحميلها كملف مضغوط ZIP أو فردياً.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
